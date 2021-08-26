@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974443034966",
+    "project_id": "programming-techapp",
+    "storage_bucket": "programming-techapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974443034966:android:0940dc0b84ded8f961fef7",
+        "android_client_info": {
+          "package_name": "com.android.programingtechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974443034966-fmcnpuuaning3o6pupvgqh0s4iknvbk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.programingtechapp",
+            "certificate_hash": "4c475f67f15c8853db49c12079cd3142e6c16d52"
+          }
+        },
+        {
+          "client_id": "974443034966-ufvfbhm88bv26gcgpkepqheea9b1fcff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkLYSF0dwsnojzTo0BpRZOs17nNNRTbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974443034966-ufvfbhm88bv26gcgpkepqheea9b1fcff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
